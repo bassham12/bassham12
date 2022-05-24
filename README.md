@@ -1,6 +1,6 @@
 - My name is Samuel Bassham and I have recieved an AAS in Computer Science from Oklahoma City Community College.
 - My goal is to increase my worth and skills in software development.
-- I am currently going back over JavaScript to make my code simpler and quicker.
+- I am currently going back over JavaScript to make my code more readable and quicker in the browser.
 - How you can reach me is samuel.bassham12@gmail.com
 - 
 <!---
